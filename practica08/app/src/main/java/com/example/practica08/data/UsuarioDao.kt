@@ -15,5 +15,5 @@ interface UsuarioDao {
     fun insertar(usuario: Usuario)
 
     @Delete
-    fun eliminar(usuario: Usuario)
+    suspend fun eliminar(usuario: Usuario)
 }
