@@ -119,10 +119,3 @@ fun ImagenCapturadaItem(bitmap: Bitmap) {
         )
     }
 }
-
-
-
-
-
-
-
